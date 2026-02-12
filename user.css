@@ -95,3 +95,29 @@
     background-color: rgba(36, 39, 46, 1);
     color: yellow;
 }
+.button5{
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgba(240, 231, 20, 0.2);
+    border: none;
+    padding: 10px 20px;
+
+}
+.financ{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    display: flex;gap: 10px;
+    position: relative;
+}
+.financ2{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.imgmasc{
+    position: absolute;
+    top: 410px;
+    left: 950px;
+}
