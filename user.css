@@ -121,3 +121,32 @@
     top: 410px;
     left: 950px;
 }
+.searvices{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.wrap{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    gap: 20px;
+}
+.Product{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 1px solid rgb(228, 222, 222);
+    padding: 20px 20px;
+}
+.pr{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
