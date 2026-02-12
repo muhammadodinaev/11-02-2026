@@ -256,3 +256,13 @@
     border: none;
     width: 200px;
 }
+.oxir{
+    background-color: rgba(16, 28, 38, 1);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom:30px ;
+    padding: 20px 60px;
+    align-items: center;
+}
