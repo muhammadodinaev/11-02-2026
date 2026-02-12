@@ -204,3 +204,55 @@
     
     
 }
+.CONTACTS{
+    display: flex;gap: 20px;
+    width: 80%;
+    margin: auto;
+    
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.cont1{
+    
+   
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    padding: 10px 40px;
+    color: rgba(85, 92, 104, 1);
+    
+    
+}
+.cont2{
+    background-color: rgba(16, 28, 38, 1);
+    color: white;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+.a1{
+    /* background-color: blue; */
+    border-bottom: 1px solid white;
+    display: flex;
+    flex-direction: column;row-gap: 10px;
+    margin-bottom: 10px;
+}
+.input{
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+.button6{
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-color: yellow;
+    border: none;
+    width: 200px;
+}
